@@ -529,7 +529,8 @@ sociology.html
 
 Output:
 
-![alt text](<Screenshot (181).png>)
- ![alt text](<Screenshot (184).png>) 
- ![alt text](<Screenshot (183).png>) 
- ![alt text](<Screenshot (182).png>)
+![Screenshot 2024-07-18 113751](https://github.com/user-attachments/assets/2c9b6314-b7c9-4ba9-b306-dad8c67a8977)
+![Screenshot 2024-07-18 113807](https://github.com/user-attachments/assets/5d58cc87-cdae-4e64-9152-7c93a4805f22)
+![Screenshot 2024-07-18 113822](https://github.com/user-attachments/assets/06845e1b-457e-4589-aaaa-0116ab4ceb61)
+![Screenshot 2024-07-18 113835](https://github.com/user-attachments/assets/2f4e028d-e0d9-41f4-b6ba-3a0976a81986)
+
